@@ -1,4 +1,3 @@
-import App from "../App";
 
 function idCard(obj) {
     return (
